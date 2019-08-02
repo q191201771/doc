@@ -1,6 +1,10 @@
-stuff like ebook & rfc & spec
+stuff like ebook & rfc & spec etc.
 
 ---
+
+#### ebook
+
+TODO fill me
 
 #### rfc
 
@@ -23,6 +27,14 @@ Framing  Real-time Transport Protocol(RTP) and RTP Control Protocol(RTCP) Packet
 **rfc5827**
 
 Early Retransmit for TCP and Stream Control Transmission Protocol (SCTP)
+
+**rfc791**
+
+Internet Protocol - Drapa Internet Program Protocol Specification
+
+**rfc793**
+
+TRANSMISSION CONTROL PROTOCOL - DARPA INTERNET PROGRAM PROTOCOL SPECIFICATION
 
 **rfc8216**
 
