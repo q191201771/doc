@@ -32,6 +32,10 @@ Early Retransmit for TCP and Stream Control Transmission Protocol (SCTP)
 
 Internet Protocol - Drapa Internet Program Protocol Specification
 
+**rfc792**
+
+Internet Control Message Protocol - Darpa Internet Program Protocol Specification
+
 **rfc793**
 
 TRANSMISSION CONTROL PROTOCOL - DARPA INTERNET PROGRAM PROTOCOL SPECIFICATION
