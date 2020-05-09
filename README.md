@@ -33,14 +33,14 @@ stuff like ebook & rfc & spec etc.
 
 * `H.264-AVC-ISO_IEC_14496-15.pdf`
 
-### rtmp/flv
+### RTMP/FLV
 
 * `spec-amf-file-format-specification.pdf`
 * `spec-amf0-file-format-specification.pdf`
 * `spec-rtmp_specification_1.0.pdf`
 * `spec-video_file_format_spec_v10.pdf`
 
-### rtp/rtcp
+### RTP/RTCP
 
 * rfc3550: `RTP: A Transport Protocol for Real-Time Applications`
 * rfc4571: `Framing  Real-time Transport Protocol(RTP) and RTP Control Protocol(RTCP) Packets over Connection-Oriented Transport`
