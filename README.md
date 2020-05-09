@@ -40,10 +40,6 @@ stuff like ebook & rfc & spec etc.
 * `spec-rtmp_specification_1.0.pdf`
 * `spec-video_file_format_spec_v10.pdf`
 
-### hls
-
-* draft-pantos-http-live-streaming-23.pdf
-
 ### rtp/rtcp
 
 * rfc3550: `RTP: A Transport Protocol for Real-Time Applications`
